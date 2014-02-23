@@ -25,6 +25,6 @@ group: navigation
 Welcome to write anything related with Code4HK
 
 NOTE for returned contributors.
-Please [update](https://github.com/hupili/blog-1/pull/1) (rebase / merge) your repo to the latest status of [code4hk blog repo](https://github.com/code4hk/blog) before you create new or do any editing.
+Please [update](https://github.com/hupili/blog-code4hk/pull/1) (rebase / merge) your repo to the latest status of [code4hk blog repo](https://github.com/code4hk/blog) before you create new or do any editing.
 
 
