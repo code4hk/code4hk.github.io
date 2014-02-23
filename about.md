@@ -15,7 +15,8 @@ group: navigation
 
    * First you need to have a GitHub account
    * Fork [code4hk blog repo](https://github.com/code4hk/blog)
-   * Create a new post under `_posts` dir
+   * Create a new post under `_posts` dir using the name `YYYY-MM-DD-title-of-your-post.md`,
+   e.g. `2014-02-23-blog-is-up.md`.
    * [Edit](https://github.com/blog/905-edit-like-an-ace) your post until camera ready
    * Make a [Pull Request](https://help.github.com/articles/using-pull-requests) from your forked repo to [code4hk blog repo](https://github.com/code4hk/blog).
    * Our editors will review your post and help polish it on the Pull Request discussion board
@@ -23,5 +24,7 @@ group: navigation
 
 Welcome to write anything related with Code4HK
 
+NOTE for returned contributors.
+Please update (rebase / merge) your repo to the latest status of [code4hk blog repo](https://github.com/code4hk/blog) before you create new or do any editing.
 
 
