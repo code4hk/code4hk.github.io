@@ -21,7 +21,7 @@ It is an initiative that create network of geeks, act to speak louder than words
 I can't explain better than the 12min tech talk. Please really watch the video and visit their [website](http://www.codeforamerica.org/programs/) especially if you consider yourself a technology professional.
 
 ###Code for Hong Kong?
-There is Code for America. Taiwan folks asked can they have [Code for Taiwan](http://mmdays.com/2012/06/25/code-for-taiwan-does-it-work/) Numerous [hacktivists](http://en.wikipedia.org/wiki/Hacktivism) around the globe work hard to shape our world. 
+There is Code for America. Taiwan folks asked can they have [Code for Taiwan](http://mmdays.com/2012/06/25/code-for-taiwan-does-it-work/). Numerous [hacktivists](http://en.wikipedia.org/wiki/Hacktivism) around the globe work hard to shape our world. 
 
 
 Hong Kong need this more than any other places. Hong Kong is a great city, just now sick. 
@@ -81,4 +81,4 @@ It is possible to run hack days for Charity, helping NGO to setup websites, ther
 ###Stay tuned
 I already have brilliant friends that take this serious and consider these goals as one of their career objectives. 
 Currently this idea is in incubating stage that we are looking for founding crew of 5-7 people to explore how things work out. Still we will need your support and know how you feel. We hope to deliver the ideas and open it to public soon in 2014.
-Follow [@code4hk](https://twitter.com/code4hk) and [#code4hk](https://twitter.com/search?q=%23code4hk&src=hash)  in twitter. Leave a comment if you have any idea.
+Follow [@code4hk](https://twitter.com/code4hk) and [#code4hk](https://twitter.com/search?q=%23code4hk&src=hash)  in twitter or [github](https://github.com/code4hk). Leave a comment if you have any idea.
