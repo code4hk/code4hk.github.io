@@ -14,6 +14,8 @@
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+    <link rel="stylesheet" type="text/css" href="{{ BASE_PATH }}/assets/font-awesome.min.css">
+
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
@@ -41,6 +43,9 @@
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
+            <li>
+              <a class="feed" href="/rss.xml"><i class="fa fa-rss fa-fw"></i></a>
+            </li>
           </ul>
         </div>
       </div>
