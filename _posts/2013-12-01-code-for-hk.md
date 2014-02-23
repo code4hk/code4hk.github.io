@@ -1,6 +1,16 @@
+---
+layout: post
+category : hackathon
+author: vincentlaucy
+author_url: http://github.com/vincentlaucy
+title: "Code for Hong Kong"
+tagline: "Code Hong Kong better, together"
+tags : [code4hk, blog]
+---
+
 This is a [re-post](http://kleineblase.wordpress.com/2013/12/01/code-for-hong-kong/)
 
-tl;dr
+###tl;dr
 I am creating a team & an organization - Lets gather geeks to hack for a better hong kong and meanwhile sharpen our skills 
 
 ##Why 
