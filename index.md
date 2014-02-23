@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Code4HK
+tagline: Drive Social Changes By Codes
 ---
 {% include JB/setup %}
 
