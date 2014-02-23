@@ -24,9 +24,20 @@
   text-align: left; }
 
 /* post-full*/
-.post-full .date {
+.post-full .meta{
+  display: inline-block;
   margin-bottom: 20px;
-  font-weight: bold; }
+  color: #777;
+  background: #eee;
+  border: 1px dashed #cccccc;
+}
+
+.post-full .meta a{
+  color: #777;
+}
+
+.post-full .meta .key{
+  font-weight: bold; }  
 
 /* tag_box */
 .tag_box {
