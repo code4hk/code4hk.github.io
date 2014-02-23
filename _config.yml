@@ -17,6 +17,12 @@ author :
   twitter : code4hk
   feedburner : code4hk
 
+markdown: redcarpet
+
+redcarpet:
+  extensions: ["fenced_code_blocks", "autolink", "strikethrough", "no_intra_emphasis"]
+
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
