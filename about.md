@@ -9,7 +9,11 @@ group: navigation
 
 ## About Us
 
-**TODO**
+Code for Hong Kong is where geeks gather together and build Hong Kong a better place. 
+Facing monopoly and bureaucracy, we drive social changes with technology. 
+Everyone can code for Hong Kong. 
+We work decentralized, form teams to solve problem and learn from each other.
+By doing this we create a better industry and community to build a better Hong Kong.
 
 ## How to contribute to this blog
 
