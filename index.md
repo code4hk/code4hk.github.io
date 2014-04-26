@@ -5,11 +5,15 @@ tagline: Drive Social Changes By Code
 ---
 {% include JB/setup %}
 
-<h2>Recent posts</h2>
+<img id="logo" src="http://www.code4.hk/img/logo.png" alt="code4hk logo">
+
 
  - Website:        http://www.code4.hk/
  - Facebook group: https://www.facebook.com/groups/code4hk/
  - Twitter:        https://twitter.com/code4hk
+
+
+<h2>Recent posts</h2>
 
 <ul class="posts">
   {% for post in site.posts %}
