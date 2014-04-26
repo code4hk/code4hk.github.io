@@ -41,7 +41,7 @@ tags : [code4hk, opendata, legco]
   * [2 Recommender Analysis](http://nbviewer.ipython.org/urls/course.ie.cuhk.edu.hk/~engg4030/tutorial/tutorial9/Recommender-System.ipynb) 
   * [3 Graph Analysis](http://nbviewer.ipython.org/urls/course.ie.cuhk.edu.hk/~engg4030/tutorial/tutorial10/Graph-Analysis.ipynb)
 
-＊Cyrus Wong 先生早前亦發表了相關研究，見[](http://data.jmsc.hku.hk/hongkong/legco/data-hk/)
+＊Cyrus Wong 先生早前亦發表了相關研究，見[http://data.jmsc.hku.hk/hongkong/legco/data-hk/](http://data.jmsc.hku.hk/hongkong/legco/data-hk/)
 
 ＊＊鳴謝Pili Hu 提供資料
 
