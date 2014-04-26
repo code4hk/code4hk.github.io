@@ -42,7 +42,10 @@ PCA便能在統計學上將每人的投票傾向統整為一個數字。圖象�
 
 ＊課程分析結果詳請，以Creative Commons 4.0 發佈
 
-[LegCoHK](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/hupili/legcohk/master/LegCoHK.ipynb)  [1 PCA](http://bit.ly/1riabfV) [2 Recommender Analysis](http://nbviewer.ipython.org/urls/course.ie.cuhk.edu.hk/~engg4030/tutorial/tutorial9/Recommender-System.ipynb) [3 Graph Analysis](http://nbviewer.ipython.org/urls/course.ie.cuhk.edu.hk/~engg4030/tutorial/tutorial10/Graph-Analysis.ipynb)
+  * [LegCoHK](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/hupili/legcohk/master/LegCoHK.ipynb) 
+  * [1 PCA](http://nbviewer.ipython.org/urls/course.ie.cuhk.edu.hk/~engg4030/tutorial/tutorial7/Dimensionality-Reduction.ipynb) 
+  * [2 Recommender Analysis](http://nbviewer.ipython.org/urls/course.ie.cuhk.edu.hk/~engg4030/tutorial/tutorial9/Recommender-System.ipynb) 
+  * [3 Graph Analysis](http://nbviewer.ipython.org/urls/course.ie.cuhk.edu.hk/~engg4030/tutorial/tutorial10/Graph-Analysis.ipynb)
 
 ＊＊鳴謝Pili Hu 提供資料
 
