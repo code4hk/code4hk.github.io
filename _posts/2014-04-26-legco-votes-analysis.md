@@ -24,7 +24,7 @@ tags : [code4hk, opendata, legco]
 
 PCA便能在統計學上將每人的投票傾向統整為一個數字。圖象化如下便會得出一個較易理解的「政治光譜」，每點代表議員，點越接近便代表投票傾向越接近。
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_VxmFIgX53qb_p.144570_1398513270115_undefined)
+![](https://dchtm6r471mui.cloudfront.net/hackpad.com_VxmFIgX53qb_p.144570_1398523876588_undefined)
 
 課程中以PCA得出的投票傾向光譜，另一嘗試是圖象化為3D圖象，詳細分析見[](http://bit.ly/1riabfV)http://bit.ly/1riabfV 
 
