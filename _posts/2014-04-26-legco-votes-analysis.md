@@ -25,11 +25,11 @@ tags : [code4hk, opendata, legco]
 ![](https://dchtm6r471mui.cloudfront.net/hackpad.com_VxmFIgX53qb_p.144570_1398523876588_undefined)
 > 課程中以PCA得出的投票傾向光譜，另一嘗試是圖象化為3D圖象，詳細分析見[](http://bit.ly/1riabfV)http://bit.ly/1riabfV 
 
-眾所周知，香港大部分議案都為泛民和建制派的對立。光譜中粗略可見不論民主黨或建制派以黨派整體來說都投票都相當一致（數字接近的直線），而若計算人力、社民連或自由黨在內，投票傾向就較建制派分散得多。這圖有助看中哪些議員較「獨立」，投票傾向和兩派都不相近。同樣的方法，也可以用予分析那些議案議員整體投票傾向會較相近。
+眾所周知，香港大部分議案都為泛民和建制派的對立。光譜中粗略可見不論民主黨或建制派以黨派整體來說投票都相當一致（圖中數字接近的直線），而若計算人民力量、社民連或自由黨在內，投票傾向就較建制派分散得多。這圖有助看中哪些議員較「獨立」，投票傾向和兩派都不相近。同樣的方法，也可以用予分析那些議案議員整體投票傾向會較相近。
 
 課程中其他技巧包括推薦系統（Recommender System），以往日投票紀錄可以準確預計議員投票的取向；甚至用中央性（Centrality Analysis）、HITS等算法嘗試發掘出議員及議案的關係。
 
-上述分析原為教學用途，要歸納出準確結論需要更細致的數據處理及專家研究。
+上述分析原為教學用途，要歸納出準確結論需要更細緻的數據處理及立法會專家研究。
 
 而開放數據優點在於每人都可以參與分析，基於數據理性討論，互相進步。立法會今次起步是一好開始。促請政府今後開放更多適合電腦處理的數據。有興趣可到[課程網站](https://course.ie.cuhk.edu.hk/~engg4030/tutorial/)了解更多及嘗試參考例子分析；這次分析亦為開源項目設於[Github](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/hupili/legcohk/master/LegCoHK.ipynb)。另外[Code for Hong Kong](https://www.facebook.com/groups/code4hk/) 和 [Open Data Hong Kong](http://odhk.github.io/)均會舉辦Hackathon等相關活動，使大家能實際應用立法會及其他開放數據，可密切留意！
 
