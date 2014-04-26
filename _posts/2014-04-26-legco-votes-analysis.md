@@ -31,7 +31,7 @@ tags : [code4hk, opendata, legco]
 
 上述分析原為教學用途，要歸納出準確結論需要更細緻的數據處理及立法會專家研究。
 
-而開放數據優點在於每人都可以參與分析，基於數據理性討論，互相進步。立法會今次起步是一好開始。促請政府今後開放更多適合電腦處理的數據。有興趣可到[課程網站](https://course.ie.cuhk.edu.hk/~engg4030/tutorial/)了解更多及嘗試參考例子分析；這次分析亦為開源項目設於[Github](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/hupili/legcohk/master/LegCoHK.ipynb)。另外[Code for Hong Kong](https://www.facebook.com/groups/code4hk/) 和 [Open Data Hong Kong](http://odhk.github.io/)均會舉辦Hackathon等相關活動，使大家能實際應用立法會及其他開放數據，可密切留意！
+而開放數據優點在於每人都可以參與分析，基於數據理性討論、互相進步。立法會今次公開投票結果是一好開始，僅促請政府今後開放更多適合電腦處理的數據。有興趣可到[課程網站](https://course.ie.cuhk.edu.hk/~engg4030/tutorial/)了解更多及嘗試參考例子分析；這次分析亦為開源項目設於[Github](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/hupili/legcohk/master/LegCoHK.ipynb)。另外[Code for Hong Kong](https://www.facebook.com/groups/code4hk/) 和 [Open Data Hong Kong](http://odhk.github.io/)均會舉辦駭客松（Hackathon）等相關活動，使大家能實際應用立法會及其他開放數據，可密切留意！
 
 ＊主成分分析，見[維基百料](http://zh.wikipedia.org/zh-hk/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90) 
 
