@@ -17,7 +17,7 @@ tags : [code4hk, opendata, legco]
 
 其中一種應用了的技巧，為主成分分析 (Principal Component Analysis)，可以找出投票傾向相近的議員。
 
-投票結果數據相對簡單，每名議員為出席並投票、缺席投票或缺席，出席議員投票分贊成、否決或棄權。首先簡化數據，電腦化表示贊成為1，反對為-1，其餘為0。而紀錄包含不同議員一年半愈1000次的投票結果，難以直接分析；PCA能在統計學上將每人的投票傾向統整為一個數字。圖象化如下便會得出一個較易理解的「政治光譜」，每點代表議員，點越接近便代表投票傾向越接近。
+投票結果數據相對簡單，每名議員為出席並投票、缺席投票或缺席，出席議員投票分贊成、否決或棄權。首先簡化數據，電腦化表示贊成為1，反對為-1，其餘為0。而紀錄包含不同議員一年半愈1000次的投票結果，難以直接分析；PCA能在統計學上將每人的投票傾向統整為一個數字。圖象化如下便會得出一個較易理解的「政治光譜」，每點代表議員，點越接近便代表投票傾向越接近。（＊註）
 
 ![](https://dchtm6r471mui.cloudfront.net/hackpad.com_VxmFIgX53qb_p.144570_1398523876588_undefined)
 > 課程中以PCA得出的投票傾向光譜，另一嘗試是生成3D圖象，詳細分析見[](http://bit.ly/1riabfV)http://bit.ly/1riabfV 
@@ -29,6 +29,9 @@ tags : [code4hk, opendata, legco]
 上述分析原為教學用途，要歸納出準確結論需要更細緻的數據處理及立法會專家研究。
 
 而開放數據優點在於每人都可以參與分析，基於數據理性討論、互相進步。立法會今次公開投票結果是一好開始，僅促請政府今後開放更多適合電腦處理的數據。有興趣可到[課程網站](https://course.ie.cuhk.edu.hk/~engg4030/tutorial/)了解更多及嘗試參考例子分析；這次分析亦為開源項目設於[Github](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/hupili/legcohk/master/LegCoHK.ipynb)。另外[Code for Hong Kong](https://www.facebook.com/groups/code4hk/) 和 [Open Data Hong Kong](http://odhk.github.io/)均會舉辦駭客松（Hackathon）等相關活動，使大家能實際應用立法會及其他開放數據，可密切留意！
+
+＊註：曾鈺成為立法會主席，只出席而不會投票所以所有投票結果均為0
+數據處理並沒有作篩選，即使缺席／棄權／缺席投票亦會計算為一種「傾向」
 
 ＊主成分分析，見[維基百料](http://zh.wikipedia.org/zh-hk/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90) 
 
