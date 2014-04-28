@@ -33,6 +33,8 @@ tags : [code4hk, opendata, legco]
 ＊註：曾鈺成為立法會主席，只出席而不會投票所以所有投票結果均為0。
 數據處理並沒有作篩選，即使缺席／棄權／缺席投票亦會計算為一種「傾向」
 
+＊註二：立法會原數據(raw data) 中郭偉「強」和郭偉「强」重覆出現兩次，現已更新圖片
+
 ＊主成分分析，見[維基百料](http://zh.wikipedia.org/zh-hk/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90) 
 
 ＊[立法會xml 投票紀綠](http://www.legco.gov.hk/general/english/counmtg/yr12-16/mtg_1213.htm#cm20121010) 
