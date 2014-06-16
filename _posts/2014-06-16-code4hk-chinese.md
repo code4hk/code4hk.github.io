@@ -1,5 +1,15 @@
+---
+layout: post
+category : hackathon
+author: vincentlaucy
+author_url: http://github.com/vincentlaucy
+title: "Code for Hong Kong"
+tagline: "用程式改變香港"
+tags : [code4hk, blog]
+---
 
-半年前在網誌用[英文](http://blog.code4.hk/hackathon/2013/12/01/code-for-hk/)發表了[Code for Hong Kong](https://www.facebook.com/groups/code4hk/)的意念，今周末的[Hackathon](https://www.facebook.com/events/572823742836248/)前用中文寫一次，也作點回顧。
+
+半年前在網誌用[英文](http://blog.code4.hk/hackathon/2013/12/01/code-for-hk/)發表了[Code for Hong Kong](https://www.facebook.com/groups/code4hk/)的理念，周末22日的[Hackathon](https://www.facebook.com/events/572823742836248/)前用中文寫一次，也作點回顧。
 
 
 為甚麼是Code，程式？因為我們相信科技創新是少數能突破香港困局的途徑。
