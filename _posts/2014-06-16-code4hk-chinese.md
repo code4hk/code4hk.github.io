@@ -11,9 +11,9 @@ Eric Schmidt在[《數位新時代》](http://www.amazon.com/gp/product/03079470
 Schmidt訪港時也留下一句「香港會為缺乏科研創業付出代價」[2]。 香港需要改變，正需要IT industry成長，發揮「創新和解決問題」的所長。
 
 
-做過幾個Social-aware的網站切身處地，Developer工餘後再要一條龍寫程式、架伺服器、推廣....
-Hackathon中即使有好意念，團隊剛熱身便結束，過後無以為繼。 (first commit is last commit)
+筆者做過幾個Social-aware的網站，切身處地，Developer工餘後再要一條龍寫程式、架伺服器、推廣....
 加上行內人都知科技跳得快，想變得專業往往要花費無限精力自修。
+Hackathon中即使有好意念，團隊剛熱身便結束，過後無以為繼。 (first commit is last commit)
 一個想改變社會的IT人，在「聽日記住照常返工」下如何自處？認貪心，只好把兩者合以為一。
 
 Code for Hong Kong 希望創作一個Civic hacking平台，讓人找到志同道合的團隊，工餘的“side-project"不再僅磨練技術，能互相學習又有社會意義 。像網上遊戲的公會，團結一起「升呢」。
