@@ -34,7 +34,7 @@ Code for Hong Kong 希望創造一個Civic hacking平台，讓人找到志同道
 
 美國矽谷創新産業外有能和政府合作的[Code for America](http://codeforamerica.org/)，台灣有多年的開源文化支持的g0v tw
 太陽花學運。台灣人用iPad自發直播、用Google Spreadsheet統籌各種資源募集、集會自建WIFI發射站。各種各樣的App，把政府原本官僚的系統比下去、更讓每人能接觸及關心議題。 
-我們不能複雜一個100% 的Code for America或100%的g0v.tw，而我們相信要知道「香港可以嗎？」答案，要去問。
+我們不能複製一個100% 的Code for America或100%的g0v.tw，而我們相信要知道「香港可以嗎？」答案，要去問。
 用科技在不論所謂「本土」或「和理非非」背後找出最大公約數－－香港市民實質的民意。
 
 願境，是「開放政府」。網上流行一款遊戲eRepublik，玩家扮演市民，人人可以每天登入以民主方式討論及公投國家各種政策。
