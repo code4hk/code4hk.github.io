@@ -28,14 +28,12 @@ Code for Hong Kong 希望創造一個Civic hacking平台，讓人找到志同道
 正好利用科技帶來的數據分柝，圖象化(Visualization)，互動希望殺出條血路。 
 數據新聞(Data Journalism)在外國大行其道時，香港主流傳媒資源有限，要維持現況已有點吃力，較難製作詳細而互動的Infographics。
 
-[預算案計算器](http://thehousenews.com/data-journalism/%E9%A0%90%E7%AE%97%E6%A1%88-calculator/)、[立法會投票光譜](http://blog.code4.hk/open%20data/2014/04/26/legco-votes-analysis/)以至[高鐵工程進度時間表](mtr.code4.hk/#/xrail-progress)都旨在吸引可能「討厭政治」的人，有切入點去關心其實本來切身的事物。半年來與g0vtw及Code for America聯結數次討論、預算案時和主場新聞、鏗鏘集等合作；和中大工程系合作也計劃當中，我們大開眼界看到了無限的可能。而Code4HK不止於提供資訊促動理性討論；關心議題，更關心背後的制度；因為我們要達到的不只是了解，更重於行動，即所謂的Civic Engagement。
+[預算案計算器](http://thehousenews.com/data-journalism/%E9%A0%90%E7%AE%97%E6%A1%88-calculator/)、[立法會投票光譜](http://blog.code4.hk/open%20data/2014/04/26/legco-votes-analysis/)以至[高鐵工程進度時間表](mtr.code4.hk/#/xrail-progress)都旨在吸引可能「討厭政治」的人，有切入點去關心其實本來切身的事物。半年來與g0vtw及Code for America聯結數次討論、預算案時和主場新聞、鏗鏘集等合作；和中大工程系及其他社企的合作也計劃當中，我們大開眼界看到了無限的可能。而Code4HK不止於提供資訊促動理性討論；關心議題，更關心背後的制度；因為我們要達到的不只是了解，更重於行動，即所謂的Civic Engagement。
 
 香港社會運動寸進尺退。相信，不在於香港人沒良知，更在於所謂「沉默的大多數」未認清自已的公民責任、未找到有效表達意願的渠道。若每人能有效盡一分力改變香港，我們就能改變香港。
 
-
-美國矽谷創新産業外有能和政府合作的Code for America，台灣有多年的開源文化支持的g0v tw
-太陽花學運，台灣人用iPad自發直播、用Google Spreadsheet統籌各種資源募集、集會自建WIFI發射站
-各種各樣的App，把政府原本官僚的系統比下去、更讓每人能接觸及關心議題。 
+美國矽谷創新産業外有能和政府合作的[Code for America](http://codeforamerica.org/)，台灣有多年的開源文化支持的g0v tw
+太陽花學運。台灣人用iPad自發直播、用Google Spreadsheet統籌各種資源募集、集會自建WIFI發射站。各種各樣的App，把政府原本官僚的系統比下去、更讓每人能接觸及關心議題。 
 我們不能複雜一個100% 的Code for America或100%的g0v.tw，而我們相信要知道「香港可以嗎？」答案，要去問。
 用科技在不論所謂「本土」或「和理非非」背後找出最大公約數－－香港市民實質的民意。
 
