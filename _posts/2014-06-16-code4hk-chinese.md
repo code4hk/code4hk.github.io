@@ -4,11 +4,11 @@
 
 為甚麼是Code，程式？因為我們相信科技創新是少數能突破香港困局的途徑。
      
-Eric Schmidt在《數位新時代》中寫道：「在世界舞台，通訊科技帶來最重要的影響是將權力重新從國家和現行體制分配到個人手上。」[1]
+Eric Schmidt在《數位新時代》中寫道：[「在世界舞台，通訊科技帶來最重要的影響是將權力重新從國家和現行體制分配到個人手上。」][1]
 
 
 香港人機不離手、社交網絡發達，網上民生團體近年百花齊放。而我們相信可以做的還有很多。
-Eric來港時也留下一句「香港會為缺乏科研創業付出代價」 [abc][2]。 香港需要改變，正需要IT industry成長，發揮「創新和解決問題」的所長。
+Eric來港時也留下一句[「香港會為缺乏科研創業付出代價」][2]。 香港需要改變，正需要IT industry成長，發揮「創新和解決問題」的所長。
 
 
 做過幾個Social-aware的網站切身處地，Developer工餘後再要一條龍寫程式、架伺服器、推廣....
@@ -50,5 +50,4 @@ Data Journalism 在外國大行其道時，香港主流傳媒資源有限，要�
 
  [1]: http://www.amazon.com/gp/product/030794705X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=030794705X&linkCode=as2&tag=theboo09-20     "On the world stage, the most significant impact of the spread of communication technologies will be the way they help reallocate the concentration of power away from states and institutions and transfer it to individuals."
 
- [2]: "your lack of software and science start-ups will hurt you in terms of your global ambitions"
- [1]: http://google.com/        "Google"
+ [2]: http://www.bschool.cuhk.edu.hk/program/article.aspx?id=FE385046D25B "your lack of software and science start-ups will hurt you in terms of your global ambitions"
