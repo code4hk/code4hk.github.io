@@ -16,9 +16,9 @@ Schmidt訪港時也留下一句「香港會為缺乏科研創業付出代價」[
 
 一個想改變社會的IT人，在「聽日記住照常返工」下如何自處？認貪心，只好把兩者合以為一。
 
-Code for Hong Kong 希望創造一個Civic hacking平台，讓人找到志同道合的團隊，工餘的“side-project"或學生的FYP (Final Year Project)不再僅實驗技術，可以互相學習又有社會意義 。像網上遊戲的公會，團結一起「升呢」。
+Code for Hong Kong 希望創造一個Civic hacking平台，讓人找到志同道合的團隊和改變社會的意念，工餘的“side-project"或學生的FYP (Final Year Project)不再僅實驗技術，可以互相學習又有社會意義 。像網上遊戲的公會，團結一起「升呢」。
 自己發揮科技創新的專業，再連繫不同團體互助合作、協助發佈到媒體，讓意念得以實踐。
-“Drive social changes by code“, 長遠目標，是利用開放源碼、開放資料去建構開放政府。
+“Drive social changes by code“, 目標宗旨，是利用開放源碼、開放資料去建構開放政府。
 
 半年來，團體也作了不少嘗試，試驗了「市場」。
 
