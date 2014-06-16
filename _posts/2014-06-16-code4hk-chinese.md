@@ -1,5 +1,5 @@
 
-半年前在網誌用[英文](http://blog.code4.hk/hackathon/2013/12/01/code-for-hk/)發表了Code for Hong Kong的意念，Hackathon前用中文寫一次，也作點回顧。
+半年前在網誌用[英文](http://blog.code4.hk/hackathon/2013/12/01/code-for-hk/)發表了[Code for Hong Kong](https://www.facebook.com/groups/code4hk/)的意念，今周末的[Hackathon](https://www.facebook.com/events/572823742836248/)前用中文寫一次，也作點回顧。
 
 
 為甚麼是Code，程式？因為我們相信科技創新是少數能突破香港困局的途徑。
