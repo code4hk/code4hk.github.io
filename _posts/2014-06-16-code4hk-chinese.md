@@ -48,6 +48,6 @@ Data Journalism 在外國大行其道時，香港主流傳媒資源有限，要�
 622星期天除了投票，也可參加我們於理大的的Hackathon了解更多
 很若你是有心的IT人／媒體／社企，很歡迎合作。
 
- [1]: http://www.amazon.com/gp/product/030794705X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=030794705X&linkCode=as2&tag=theboo09-20     "On the world stage, the most significant impact of the spread of communication technologies will be the way they help reallocate the concentration of power away from states and institutions and transfer it to individuals."
+ [1] ["On the world stage, the most significant impact of the spread of communication technologies will be the way they help reallocate the concentration of power away from states and institutions and transfer it to individuals."](http://www.amazon.com/gp/product/030794705X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=030794705X&linkCode=as2&tag=theboo09-20) 
 
- [2]: http://www.bschool.cuhk.edu.hk/program/article.aspx?id=FE385046D25B "your lack of software and science start-ups will hurt you in terms of your global ambitions"
+ [2] ["your lack of software and science start-ups will hurt you in terms of your global ambitions"](http://www.bschool.cuhk.edu.hk/program/article.aspx?id=FE385046D25B)
