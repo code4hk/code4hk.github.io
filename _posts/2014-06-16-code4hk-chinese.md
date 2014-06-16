@@ -26,9 +26,9 @@ Code for Hong Kong 希望創造一個Civic hacking平台，讓人找到志同道
 深入、Follow-up的報導較難得，讀者也不一定有耐性看。
 我們有點逆其道而行，不求標題 ，只希望市民能收到更多社會議題的資訊，討論能更基於事實、更理性、亦更有效監察政府。
 正好利用科技帶來的數據分柝，圖象化(Visualization)，互動希望殺出條血路。 
-數據新聞(Data Journalism)在外國大行其道時，香港主流傳媒資源有限，要維持現況已有點吃力，較難製作詳細而互動的Infographics
+數據新聞(Data Journalism)在外國大行其道時，香港主流傳媒資源有限，要維持現況已有點吃力，較難製作詳細而互動的Infographics。
 
-[預算案計算器](http://thehousenews.com/data-journalism/%E9%A0%90%E7%AE%97%E6%A1%88-calculator/)、立法會投票光譜，都旨在吸引可能「討厭政治」的人，有切入點去關心其實本來切身的事物。
+[預算案計算器](http://thehousenews.com/data-journalism/%E9%A0%90%E7%AE%97%E6%A1%88-calculator/)、[立法會投票光譜](http://blog.code4.hk/open%20data/2014/04/26/legco-votes-analysis/)以至[高鐵工程進度時間表](mtr.code4.hk/#/xrail-progress)都旨在吸引可能「討厭政治」的人，有切入點去關心其實本來切身的事物。
 預算案和主場新聞、鏗鏘集等合作、與g0vtw及Code for America聯結討論、中大工程系合作計劃當中，大開眼界看到了無限的可能。而Code4HK不止於提供資訊促動理性討論；關心議題，更關心背後的制度；因為我們的不只要了解，更重於行動，即所謂的Civic Engagement。
 
 
