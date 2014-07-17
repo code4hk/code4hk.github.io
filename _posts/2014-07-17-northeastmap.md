@@ -8,7 +8,7 @@ tagline:
 tags : [code4hk, nent, land]
 ---
 
-新界東北發展規劃歷時多年，從懶人包到常人包、關於規劃的資訊甚多而且不斷更改。
+新界東北發展規劃歷時多年，從[懶人包](http://thehousenews.com/NT-northeast/%E5%8F%8D%E6%9D%B1%E5%8C%97%E6%87%B6%E4%BA%BA%E5%8C%85-%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E7%AB%8B%E5%8D%B3%E6%92%A4%E5%9B%9E%E6%96%B0%E7%95%8C%E6%9D%B1%E5%8C%97%E7%99%BC%E5%B1%95%E8%A8%88%E5%8A%83%E7%9A%84%E5%8D%81%E5%80%8B%E7%90%86%E7%94%B1/)到[常人包](http://thehousenews.com/NT-northeast/%E5%8F%8D%E6%93%8A%E5%9C%9F%E7%9B%9F%E6%87%B6%E4%BA%BA%E5%8C%85-%E7%99%BC%E5%B1%95%E5%B1%80-%E6%96%B0%E7%95%8C%E6%9D%B1%E5%8C%97%E5%B8%B8%E4%BA%BA%E5%8C%85-%E5%85%A8%E6%96%87/)、關於規劃的資訊甚多而且不斷更改。
 
 Code for Hong Kong 自發組織程式開發人員、富規劃知識人士等關心事件的各界朋友成為公民記者去製作[《新界東北地圖》](http://northeast.code4.hk)，務求市民能理性關心及討論計劃。
 
