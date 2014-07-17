@@ -1,9 +1,9 @@
 ---
 layout: post
-category : hackathon
+category : opendata
 author: vincentlaucy
 author_url: http://github.com/vincentlaucy
-title: "Code for Hong Kong：用程式改變香港"
+title: "《新界東北地圖》─請用數據來說服我"
 tagline: 
 tags : [code4hk, nent, land]
 ---
