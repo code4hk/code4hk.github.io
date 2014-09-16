@@ -66,4 +66,4 @@ Sousveillance 能提供更多角度去平衡和抗衡 Surveillance ，不過Sous
 10. [Videotaped confessions can create bias against suspect, study finds](http://www.eurekalert.org/pub_releases/2007-03/ou-vcc031307.php)
  
 ======
-(原文刊載於作者部落格[游思・歪才](http://cyl-notes.blogspot.tw/2014/09/blog-post.html))
+(原文刊載於作者網誌[游思・歪才](http://cyl-notes.blogspot.tw/2014/09/blog-post.html))
