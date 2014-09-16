@@ -15,7 +15,7 @@
 * 2011年尼日利亞大選，民眾以手機監察選舉舉報舞弊。[3]
 * 2014年香港港鐵列車撞死唐狗事故，乘客以手機拍攝的片段揭穿港鐵的聲明與事實不符。[4]
 
-Sousveillance 能提供更多角度去平衡和抗衡 Surveillance ，不過Sousveillance 自不是民眾的專利。各國警察已陸續配備佩戴式攝錄器，香港警察也已經在部分前線警員試用[5]，據稱對警員的無理投訴和挑釁因此大為減少。[6] [7] [8] 
+Sousveillance 能提供更多角度去平衡和抗衡 Surveillance ，不過Sousveillance 自不是民眾的專利。各國警察已陸續配備佩戴式攝錄器，香港警察也已經在部分前線警員試用[5]，據香港警務處稱，對警員的無理投訴和挑釁因此大為減少。[6] [7] [8] 
 
 ###錄像一定客觀？
 
@@ -64,3 +64,6 @@ Sousveillance 能提供更多角度去平衡和抗衡 Surveillance ，不過Sous
 9. [為甚麼警察不應/不能以隨身攝錄機舉證？](http://johncoal.wordpress.com/2013/09/07/%E7%9F%AD%E6%89%93%EF%BC%883%EF%BC%89%EF%BC%9A%E7%82%BA%E7%94%9A%E9%BA%BC%E8%AD%A6%E5%AF%9F%E4%B8%8D%E6%87%89%E4%B8%8D%E8%83%BD%E4%BB%A5%E9%9A%A8%E8%BA%AB%E6%94%9D%E9%8C%84%E6%A9%9F%E8%88%89%E8%AD%89/)
 
 10. [Videotaped confessions can create bias against suspect, study finds](http://www.eurekalert.org/pub_releases/2007-03/ou-vcc031307.php)
+ 
+======
+(原文刊載於作者部落格[游思・歪才](http://cyl-notes.blogspot.tw/2014/09/blog-post.html))
