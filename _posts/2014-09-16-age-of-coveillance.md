@@ -4,7 +4,7 @@ category : Technology in society
 author: CY L.
 author_url: https://github.com/cyl337
 title: "全民皆拍的共監視時代，你準備好了嗎？"
-tagline: [科技探討]系列
+tagline: "[科技探討]系列"
 tags : [code4hk, blog, sousveillance, surveillance]
 ---
 
