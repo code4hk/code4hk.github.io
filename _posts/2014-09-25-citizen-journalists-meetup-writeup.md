@@ -58,7 +58,7 @@ Resistance Live的成立始於613反新界東北發展集會，主要進行視�
 是次交流會正臨近2014香港學界大罷課、十一佔領中環行動，明顯感受到與會人士希望在此社會將有重大轉變的時刻盡上公民責任，貢獻自己的思考。交流會加深了出席者對民間媒體的認識和對公民記者的了解，同時交流彼此的技術和經驗。相信此後香港的公民記者、民間媒體與社運組織會有更緊密的合作，發揮更大的影響力。
 
 =====
-(同時發表於[Code4HK Blog](http://blog.code4.hk/) 及作者網誌[游思・歪才](http://cyl-notes.blogspot.hk/2014/09/blog-post-citizen-journalists-meetup-writeup.html))
+(同時發表於[Code4HK 博客](http://blog.code4.hk/) 及作者網誌[游思・歪才](http://cyl-notes.blogspot.hk/2014/09/blog-post-citizen-journalists-meetup-writeup.html))
 
 ####延伸閱讀：
 - [如何在後主場新聞時代使（網絡）媒體更能推動（參與式）民主 | 梁旭明 (於924罷課不罷學－添馬民主講台的講課筆記)](http://teachersupportstudentstrike.sayit.mysociety.org/speech/601592)
