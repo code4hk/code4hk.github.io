@@ -10,15 +10,15 @@ tags : [code4hk, blog, citizenjournalism]
 
 ##[活動札記]民間媒體／公民記者直播技術交流會
 
-2014年9月18日晚上於香港城市大學，Code for Hong Kong 舉辦了[「民間媒體 ／公民記者直播技術交流會」](https://www.facebook.com/events/344642262369249/)，邀請到三個民間媒體：香港獨立媒體、Resistance Live抗爭在線、United Social Press社媒分享他們採訪現場、網絡直播的經驗。當晚出席人士還有民陣、學聯、和平佔中、青協的成員、 中大新聞與傳播學院學生和幾位關注新聞自由的市民。 台灣零時政府的成員亦透過視像通話參與交流。
+2014年9月18日晚上於香港城市大學，Code for Hong Kong 舉辦了[「民間媒體 ／公民記者直播技術交流會」](https://www.facebook.com/events/344642262369249/)，邀請到三個民間媒體：香港獨立媒體、Resistance Live抗爭在線、United Social Press社媒分享他們採訪現場、網絡直播的經驗。台灣零時政府的成員亦透過視像通話參與交流。
 
 ####Code for Hong Kong (code4hk) - (http://www.code4.hk/)
 主辦者code4hk 是本地公民駭客([civic hacking](http://www.codeforamerica.org/blog/2013/06/07/defining-civic-hacking/))社群，其理念是集合關心社會的IT人，運用自己的專業知識去改進社會。 以往的項目，包括：
 - [新界東北發展資訊地圖](http://northeast.code4.hk/) 
+- [立法會投票光譜](http://blog.code4.hk/open%20data/2014/04/26/legco-votes-analysis/) 
 - [七一遊行資訊網站](http://hackfoldr.org/71/) 
-- 與Resistance Live 合作的[佔領遮打視訊直播網站](http://hackfoldr.org/resistancelive/13620594) 
 
-其中後兩者利用了台灣[零時政府](http://g0v.tw/)開發的[Hackfoldr](http://hackfoldr.org/) 製作，其輸入介面簡單易用，沒有技術背景的使用者亦能很快上手。
+其中後者利用了台灣[零時政府](http://g0v.tw/)開發的[Hackfoldr](http://hackfoldr.org/) 製作，其輸入介面簡單易用，沒有技術背景的使用者亦能很快上手。
 
 而進行中的項目有：
 - Hackfoldr 手機app ，提供離線快取的功能，方便使用者在網絡不穩時仍可瀏覽 Hackfoldr (未公開)
