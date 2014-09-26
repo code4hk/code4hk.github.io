@@ -8,7 +8,7 @@ tagline: 每個人的直播都是一個獨特角度，社會正很需要許許�
 tags : [code4hk, blog, citizenjournalism]
 ---
 
-##[活動札記]民間媒體／公民記者直播技術交流會
+##香港的公民直播 - 民間媒體／公民記者直播技術交流會
 
 隨著媒體越來越市場導向或受政治打壓，社會上的公民從自己的角度，自發去發掘、記錄、傳播社會所需要的資訊越益重要——這正是[公民記者](http://zh.wikipedia.org/wiki/%E6%B0%91%E9%96%93%E8%A8%98%E8%80%85)([Citizen journalism](http://en.wikipedia.org/wiki/Citizen_journalism))的理念。近期的社會運動中，民間媒體的現場網絡直播對市民了解事態發展起重要作用。到底民間媒體和公民記者是如何採訪的？
 
