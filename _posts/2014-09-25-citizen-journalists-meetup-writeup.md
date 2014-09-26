@@ -3,15 +3,14 @@ layout: post
 category : Meetup
 author: CY L.
 author_url: https://github.com/cyl337
-title: "[活動札記]民間媒體／公民記者直播技術交流會"
+title: "香港的公民直播 - 民間媒體／公民記者直播技術交流會"
 tagline: 每個人的直播都是一個獨特角度，社會正很需要許許多多不同的角度去看、去思考問題。
 tags : [code4hk, blog, citizenjournalism]
 ---
 
 ##[活動札記]民間媒體／公民記者直播技術交流會
 
-
-
+隨著媒體越來越市場導向或受政治打壓，社會上的公民從自己的角度，自發去發掘、記錄、傳播社會所需要的資訊越益重要——這正是[公民記者](http://zh.wikipedia.org/wiki/%E6%B0%91%E9%96%93%E8%A8%98%E8%80%85)([Citizen journalism](http://en.wikipedia.org/wiki/Citizen_journalism))的理念。近期的社會運動中，民間媒體的現場網絡直播對市民了解事態發展起重要作用。到底民間媒體和公民記者是如何採訪的？
 
 2014年9月18日晚上於香港城市大學，Code for Hong Kong 舉辦了[「民間媒體 ／公民記者直播技術交流會」](https://www.facebook.com/events/344642262369249/)，邀請到三個民間媒體：香港獨立媒體、Resistance Live抗爭在線、United Social Press社媒分享他們採訪現場、網絡直播的經驗。台灣零時政府的成員亦透過視像通話參與交流。
 
@@ -62,7 +61,7 @@ Resistance Live的成立始於613反新界東北發展集會，主要進行視�
 是次交流會正臨近2014香港學界大罷課、十一佔領中環行動，明顯感受到與會人士希望在此社會將有重大轉變的時刻盡上公民責任，貢獻自己的思考。交流會加深了出席者對民間媒體的認識和對公民記者的了解，同時交流彼此的技術和經驗。相信此後香港的公民記者、民間媒體與社運組織會有更緊密的合作，發揮更大的影響力。
 
 =====
-(同時發表於[Code4HK 博客](http://blog.code4.hk/) 及作者網誌[游思・歪才](http://cyl-notes.blogspot.hk/2014/09/blog-post-citizen-journalists-meetup-writeup.html))
+(本文同時發表於[Code4HK 博客](http://blog.code4.hk/) 及作者網誌[游思・歪才](http://cyl-notes.blogspot.hk/2014/09/blog-post-citizen-journalists-meetup-writeup.html))
 
 ####延伸閱讀：
 - [全民皆拍的共監視時代，你準備好了嗎？ | Code4HK Blog](http://blog.code4.hk/technology%20in%20society/2014/09/16/age-of-coveillance/)
@@ -71,4 +70,4 @@ Resistance Live的成立始於613反新界東北發展集會，主要進行視�
 =====
 ####好站推介
 想觀看視像直播追蹤社運現場？想找「懶人包」快速了解社會議題卻不知從何找起？
-[today.code4.hk](http://today.code4.hk/) 彙整了正在發生的社會大事的各種資訊，各方提供的「懶人包、視像直播、行動日程、相關團體的網站等等都可在[today.code4.hk](http://today.code4.hk/)找得到。
+[today.code4.hk](http://today.code4.hk/) 彙整了正在發生的社會大事的各種資訊，各方提供的「懶人包」、視像直播、行動日程、相關團體的網站等等都可在[today.code4.hk](http://today.code4.hk/)找得到。
