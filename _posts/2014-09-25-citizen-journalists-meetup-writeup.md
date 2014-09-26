@@ -10,6 +10,9 @@ tags : [code4hk, blog, citizenjournalism]
 
 ##[活動札記]民間媒體／公民記者直播技術交流會
 
+
+
+
 2014年9月18日晚上於香港城市大學，Code for Hong Kong 舉辦了[「民間媒體 ／公民記者直播技術交流會」](https://www.facebook.com/events/344642262369249/)，邀請到三個民間媒體：香港獨立媒體、Resistance Live抗爭在線、United Social Press社媒分享他們採訪現場、網絡直播的經驗。台灣零時政府的成員亦透過視像通話參與交流。
 
 ####Code for Hong Kong (code4hk) - (http://www.code4.hk/)
@@ -22,6 +25,7 @@ tags : [code4hk, blog, citizenjournalism]
 
 而進行中的項目有：
 - Hackfoldr 手機app ，提供離線快取的功能，方便使用者在網絡不穩時仍可瀏覽 Hackfoldr (未公開)
+- 與綠色記者陳曉蕾合作建立公民記者網站
 - 以RasberryPi 製作WiFi access point， 可用來架設無線局域網支援大型集會，亦可同時作為迷你伺服器運行Hackfoldr 
 - 製作定向天線供遠距wifi 傳輸
 
@@ -61,4 +65,10 @@ Resistance Live的成立始於613反新界東北發展集會，主要進行視�
 (同時發表於[Code4HK 博客](http://blog.code4.hk/) 及作者網誌[游思・歪才](http://cyl-notes.blogspot.hk/2014/09/blog-post-citizen-journalists-meetup-writeup.html))
 
 ####延伸閱讀：
+- [全民皆拍的共監視時代，你準備好了嗎？ | Code4HK Blog](http://blog.code4.hk/technology%20in%20society/2014/09/16/age-of-coveillance/)
 - [如何在後主場新聞時代使（網絡）媒體更能推動（參與式）民主 | 梁旭明 (於924罷課不罷學－添馬民主講台的講課筆記)](http://teachersupportstudentstrike.sayit.mysociety.org/speech/601592)
+
+=====
+####好站推介
+想觀看視像直播追蹤社運現場？想找「懶人包」快速了解社會議題卻不知從何找起？
+[today.code4.hk](http://today.code4.hk/) 彙整了正在發生的社會大事的各種資訊，各方提供的「懶人包、視像直播、行動日程、相關團體的網站等等都可在[today.code4.hk](http://today.code4.hk/)找得到。
