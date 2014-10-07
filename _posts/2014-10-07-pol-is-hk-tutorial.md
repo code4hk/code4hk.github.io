@@ -58,4 +58,4 @@ tags : [code4hk, blog, tutorial, public opinion, consensus]
 
 
 =====
-(本文發表於[Code4HK 博客](http://blog.code4.hk/2014/10/07/pol-is-hk-tutorial) 及作者網誌[游思・歪才](http://cyl-notes.blogspot.com/2014/10/pol-is-hk-tutorial.html))
+(本文發表於[Code4HK 博客](http://blog.code4.hk/tutorial/2014/10/07/pol-is-hk-tutorial/) 及作者網誌[游思・歪才](http://cyl-notes.blogspot.com/2014/10/pol-is-hk-tutorial.html))
