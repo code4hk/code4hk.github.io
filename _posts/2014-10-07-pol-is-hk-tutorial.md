@@ -13,22 +13,25 @@ tags : [code4hk, blog, tutorial, public opinion, consensus]
 網民最關心什麼新聞或議題 ? 他們對議題又有何看法? 
 
 ###簡介
-[pol.is/hk](http://pol.is/hk) 是一個民意調查工具，能讓網民投票選出最需要關注的議題、就議題發表意見，並對其他人的意見表示贊同與否。系統會分析出意見相近的群體，歸納各個群體對議題的看法，從而協助民眾達成共識。
+[pol.is/hk](http://pol.is/hk) 是一個新聞系統，能讓網民投票選出最需要關注的新聞、就議題發表意見，並對其他人的意見表示贊同與否。系統會分析出意見相近的群體，歸納各個群體對議題的看法，從而協助民眾達成共識。
 
 ###使用教學
-1. 進入[pol.is/hk](http://pol.is/hk) ，首頁會按序列出網民最關心的新聞或議題。
+
+####熱門新聞
+1. 進入[pol.is/hk](http://pol.is/hk) ，首頁會按序列出網民最關心的新聞。
 ![Step 1](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_EVn1FW55gwH_p.244268_1412519801257_polis01.JPG)
 
-2. 點擊標題前的按鈕來投票，將自己要認為重要的議題「推」上去。點擊標題後的鏈結打開有關報導。
+2. 點擊標題前的按鈕來投票，將自己要認為重要的新聞「推」上去。點擊標題後的鏈結打開有關報導。
 ![Step 2](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_EVn1FW55gwH_p.244268_1412520059622_polis01_1.jpg)
 
-3. 要提交新的議題，點擊"SUBMIT A NEW LINK"。
+3. 要提交新的新聞，點擊"SUBMIT A NEW LINK"。
 ![Step 3](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_EVn1FW55gwH_p.244268_1412520103445_polis01_2.jpg)
 
 4. 在提交頁輸入標題和有關報導的網址，然後按"CREATE"。
 ![Step 4](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_EVn1FW55gwH_p.244268_1412520216146_polis02.JPG)
 
-5. 要就議題發表意見，或對其他人的意見表示贊同或反對，點擊"DISCUSS"。
+####議題表態
+5. 要就新聞的議題發表意見，或對其他人的意見表示贊同或反對，點擊"DISCUSS"。
 ![Step 5](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_EVn1FW55gwH_p.244268_1412520389856_polis01_3.jpg)
 
 6. 在意見頁，左面會隨機顯示其他人的意見，要表示贊同或反對，可按"AGREE"、"DISAGREE"或"PASS"。
