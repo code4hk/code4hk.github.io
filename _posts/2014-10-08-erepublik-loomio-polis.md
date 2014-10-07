@@ -37,4 +37,4 @@ tags : [code4hk, blog]
 
 
 在旺角街頭，應付無賴有聰明招數，圍唱生日歌；而也有怪錯好人，[結果變成民粹](https://www.youtube.com/watch?v=RubSzEsyFi0&feature=youtu.be)。
-既然是追求民主，自已也必需從中學習民主。「沒有大會」，是「群眾」還是「市民」，自我組織下如何解決分歧，將是關鍵。 若運動組織者是「Facebook和Twitter」，也不妨試用科技解決新問題。
+既然是追求民主，自已也必需從中學習民主。「沒有大會」，是「群眾」還是「市民」，自我組織下如何解決分歧，將是關鍵。 若運動組織者是[「手機的Google和Facebook」](http://hk.apple.nextmedia.com/realtime/supplement/20141002/52971271?top=4h)，也不妨試用科技解決新問題。
