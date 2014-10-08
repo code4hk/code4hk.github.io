@@ -25,7 +25,7 @@ tags : [code4hk, blog]
 
 關於新科技如何實踐民主，有三個有趣的程式。
 
-
+![eRepublike](https://cloud.githubusercontent.com/assets/1883877/4558962/2f53da00-4ee6-11e4-8058-c6d4ea55c8aa.png)
 
 ### eRepublik - 國民遊戲
 很多人玩過Erepublik這網上遊戲。玩家扮演市民，人人可以每天登入以民主方式討論及公投國家各種政策。每人角色不一，有商人、軍人、傳媒和政治家，利益也不同。是否攻打其他國家，還是發展經濟，要用盡方法說服別人。國運如何，就全靠每人的決定。遊戲可能有點粗糙，意念卻很新鮮，是Open Government 的先驅。筆者沒有沈迷，卻深受啟發，可算是[Code4HK 的願景。](http://www.pentoy.hk/%E7%A4%BE%E6%9C%83/c352/2014/06/17/code-hong-kong%EF%BC%9A%E7%94%A8%E7%A8%8B%E5%BC%8F%E6%94%B9%E8%AE%8A%E9%A6%99%E6%B8%AF/)
