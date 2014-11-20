@@ -1,4 +1,13 @@
-青年選民在哪裡？
+---
+layout: post
+category : hackathon
+author: vincentlaucy
+author_url: http://github.com/vincentlaucy
+title: "青年選民在哪裡？分區資料互動地圖Gazetteer.hk"
+tagline: "用數據考察選情"
+tags : [code4hk, blog, census]
+---
+
 
 近日不少組織也呼籲市民登記做選民，投選代表自己的候選議員。青年群體的登記率較年長群體低，連政府也表示會吸引年輕人登記成為選民。
 
