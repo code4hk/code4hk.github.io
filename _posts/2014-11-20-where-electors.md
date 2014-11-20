@@ -1,11 +1,11 @@
 ---
 layout: post
-category : hackathon
+category : election
 author: vincentlaucy
 author_url: http://github.com/vincentlaucy
 title: "青年選民在哪裡？分區資料互動地圖Gazetteer.hk"
 tagline: "用數據考察選情"
-tags : [code4hk, blog, census]
+tags : [code4hk, blog, census, election]
 ---
 
 
