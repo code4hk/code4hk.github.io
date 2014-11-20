@@ -31,6 +31,11 @@
 
 有一點要注意。有些人相信，年長選民增加，會有利支持建制的候選人當選。人口統計數字指出這並非必然。年齡不是唯一決定選舉投票取向的因素。例如[晴景選區](http://www.census2011.gov.hk/tc/district-profiles/ca/yuen-long/m21.html)的年滿65歲人口只佔7.7%，較15至24歲人口更小，[宏逸](http://www.census2011.gov.hk/tc/district-profiles/ca/yuen-long/m20.html)更只有3.3%。兩區當選區議員也是工聯會成員。有其他因素決定投票意向。
 
-gazetteer.hk是一個開源項目，code4hk是其中一個參與者。項目運用統計處公開的原始數據，整合香港人口及地理數據，致力使讀者輕易理解龐雜的資料。除了年齡組群的地區分布，還有住戶收入，男女的普遍職業，業主租客比例等。
+gazetteer.hk是一個[開源項目](https://github.com/gazetteerhk/census_explorer)，code4hk是其中一個參與者。項目運用統計處公開的原始數據，整合香港人口及地理數據，致力使讀者輕易理解龐雜的資料。除了年齡組群的地區分布，還有住戶收入，男女的普遍職業，業主租客比例等。
 
 code4hk在本周末(11月22-23日)舉行程式設計馬拉松hackathon，歡迎大家出席，組隊編寫程式和軟件應用，時間地點請參看[facebook] event(https://www.facebook.com/events/529824850495369/)！
+
+文／Ronald Yick
+
+經處理的(Structured)數據：https://github.com/gazetteerhk/census_explorer/tree/master/scripts
+Code4HK現正整理、有關立法會及區議會選區數據庫：http://datahub.io/organization/code4hk
