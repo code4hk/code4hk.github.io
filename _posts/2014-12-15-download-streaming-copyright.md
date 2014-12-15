@@ -57,6 +57,7 @@ tags : [copyright, intellectual property, streaming]
 ======
 
 [1] - 《2014 年版權(修訂)條例草案》頁次C2982
+
 第12條︰廢除第28條《以廣播作品或將作品包括在有線傳播節目服務內的方式侵犯版權》。
 
 第13條︰加入第 28A 條《以向公眾傳播方式侵犯版權》
@@ -74,6 +75,7 @@ tags : [copyright, intellectual property, streaming]
   b. 接收構成該項傳播的電子傳送信息。
   
 [2] - 鍾樹根議員發言節錄
+
 (討論刪除關於廣播的[第8條](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/75C3DEAAE8C10251482564F2000F4541?OpenDocument)、[第9條](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/10B4B629E1A4B857482564F2000FAFB3?OpenDocument)條文中「複製品」的字眼)
 
 > 主席, 我都係唔係好明白, 我唔覺得係收緊左, 反而係放寬左. 喂, 你刪左「複製品」, 點解一定要刪呢? 唔刪得唔得架呢? 因為其實你無論用internet好, 用電腦點樣串流落來呢, 其實係複製左架. 佢將啲資料複製左喺個記憶體度嘛, 如果唔係播唔到出來架? 係咪先? 喺記憶體度搵得番架喎. 即係...唔同以前analogue收音機佢直接播出來架嘛. 即係咁我想上網抄人一首歌落來....　——如果我唔要「複製品」刪左佢呢三個字——咁樣我唔播出來, 我淨係錄左佢, 擺左喺我memory, 咁算唔算犯法呢?
@@ -95,10 +97,15 @@ tags : [copyright, intellectual property, streaming]
 [《2014 年版權(修訂)條例草案》全文](http://www.legco.gov.hk/yr13-14/chinese/bills/b201406131.pdf)
 
 [《版權條例》](http://www.legislation.gov.hk/blis_ind.nsf/WebView?OpenAgent&vwpg=CurAllChinDoc*496*100*528.1#528.1) 
+
 [第8條 廣播](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/75C3DEAAE8C10251482564F2000F4541?OpenDocument)
+
 [第9條 有線傳播節目](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/10B4B629E1A4B857482564F2000FAFB3?OpenDocument)
+
 [第23條 因複製而侵犯版權](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/367B10DD85FB51C54825733800163ECD?OpenDocument)
+
 [第24條 以向公眾發放複製品方式侵犯版權](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/2EA3267BAB9A31EB482564F3000DF2EB?OpenDocument)
+
 [第28條 以廣播作品或將作品包括在有線傳播節目服務內的方式侵犯版權](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/B93F65692D1E6523482564F3000E0C6F?OpenDocument)
 
 [《2014 年版權(修訂)條例草案》委員會2014/12/08會議錄影](http://youtu.be/1AkuIUxxp1U)
