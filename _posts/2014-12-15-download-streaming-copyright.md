@@ -32,7 +32,7 @@ tags : [copyright, intellectual property, streaming]
 
 ####版權條例修訂
 
-明白了這些技術概念，再來談談版權的一些概念。版權這概念出現之初，文本、圖像、聲音等等的傳播主要透過製作複製品然後分發，例如一本本的書、一張張的唱片。因此版權的英文詞彙是copyright ，版權的法例條文總會出現「複製品」(copy)這字眼。隨著科技進步，出現像電台、電視台以無線或有線傳播這些不涉及實質複製品的傳播方式，於是版權的法例又特別將無線廣播和有線傳播納入管制。但科技不斷進步，**互聯網出現，數據傳送必然涉及數位複製品，單單以複製品的有無判斷有否侵權、規限複製行為早已不合時宜。**因此版權的法例開始改為著眼於規限傳播行為，香港[《2014 年版權(修訂)條例草案》](http://www.legco.gov.hk/yr13-14/chinese/bills/b201406131.pdf)其中一部分正是引入「向公眾傳播」的概念，取代原來有關以廣播作品的方式侵犯版權的條文(廢除[第28條](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/B93F65692D1E6523482564F3000E0C6F?OpenDocument)、加入第28A條 [1] )，並刪除關於廣播的條文([第8條](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/75C3DEAAE8C10251482564F2000F454)、[第9條](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/10B4B629E1A4B857482564F2000FAFB3?OpenDocument))中「複製品」的字眼。
+明白了這些技術概念，再來談談版權的一些概念。版權這概念出現之初，文本、圖像、聲音等等的傳播主要透過製作複製品然後分發，例如一本本的書、一張張的唱片。因此版權的英文詞彙是copyright ，版權的法例條文總會出現「複製品」(copy)這字眼。隨著科技進步，出現像電台、電視台以無線或有線傳播這些不涉及實質複製品的傳播方式，於是版權的法例又特別將無線廣播和有線傳播納入管制。但科技不斷進步，**互聯網出現，數據傳送必然涉及數位複製品，單單以複製品的有無判斷有否侵權、規限複製行為早已不合時宜。**因此版權的法例開始改為著眼於規限傳播行為，香港[《2014 年版權(修訂)條例草案》](http://www.legco.gov.hk/yr13-14/chinese/bills/b201406131.pdf)其中一部分正是引入「向公眾傳播」的概念，取代原來有關以廣播作品的方式侵犯版權的條文(廢除[第28條](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/B93F65692D1E6523482564F3000E0C6F?OpenDocument)、加入第28A條 [1] )，並刪除關於廣播的條文([第8條](http://www.legislation.gov.hk/blis_ind.nsf/6033a8cc1f220686482564840019d2f2/75c3deaae8c10251482564f2000f4541?OpenDocument)、[第9條](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/10B4B629E1A4B857482564F2000FAFB3?OpenDocument))中「複製品」的字眼。
 
 ###議員的三大謬誤
 
@@ -76,7 +76,7 @@ tags : [copyright, intellectual property, streaming]
   
 [2] - 鍾樹根議員發言節錄
 
-(討論刪除關於廣播的[第8條](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/75C3DEAAE8C10251482564F2000F4541?OpenDocument)、[第9條](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/10B4B629E1A4B857482564F2000FAFB3?OpenDocument)條文中「複製品」的字眼)
+(討論刪除關於廣播的[第8條](http://www.legislation.gov.hk/blis_ind.nsf/6033a8cc1f220686482564840019d2f2/75c3deaae8c10251482564f2000f4541?OpenDocument)、[第9條](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/10B4B629E1A4B857482564F2000FAFB3?OpenDocument)條文中「複製品」的字眼)
 
 > 主席, 我都係唔係好明白, 我唔覺得係收緊左, 反而係放寬左. 喂, 你刪左「複製品」, 點解一定要刪呢? 唔刪得唔得架呢? 因為其實你無論用internet好, 用電腦點樣串流落來呢, 其實係複製左架. 佢將啲資料複製左喺個記憶體度嘛, 如果唔係播唔到出來架? 係咪先? 喺記憶體度搵得番架喎. 即係...唔同以前analogue收音機佢直接播出來架嘛. 即係咁我想上網抄人一首歌落來....　——如果我唔要「複製品」刪左佢呢三個字——咁樣我唔播出來, 我淨係錄左佢, 擺左喺我memory, 咁算唔算犯法呢?
 
@@ -97,16 +97,11 @@ tags : [copyright, intellectual property, streaming]
 [《2014 年版權(修訂)條例草案》全文](http://www.legco.gov.hk/yr13-14/chinese/bills/b201406131.pdf)
 
 [《版權條例》](http://www.legislation.gov.hk/blis_ind.nsf/WebView?OpenAgent&vwpg=CurAllChinDoc*496*100*528.1#528.1) 
-
-[第8條 廣播](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/75C3DEAAE8C10251482564F2000F4541?OpenDocument)
-
-[第9條 有線傳播節目](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/10B4B629E1A4B857482564F2000FAFB3?OpenDocument)
-
-[第23條 因複製而侵犯版權](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/367B10DD85FB51C54825733800163ECD?OpenDocument)
-
-[第24條 以向公眾發放複製品方式侵犯版權](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/2EA3267BAB9A31EB482564F3000DF2EB?OpenDocument)
-
-[第28條 以廣播作品或將作品包括在有線傳播節目服務內的方式侵犯版權](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/B93F65692D1E6523482564F3000E0C6F?OpenDocument)
+- [第8條 廣播](http://www.legislation.gov.hk/blis_ind.nsf/6033a8cc1f220686482564840019d2f2/75c3deaae8c10251482564f2000f4541?OpenDocument)
+- [第9條 有線傳播節目](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/10B4B629E1A4B857482564F2000FAFB3?OpenDocument)
+- [第23條 因複製而侵犯版權](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/367B10DD85FB51C54825733800163ECD?OpenDocument)
+- [第24條 以向公眾發放複製品方式侵犯版權](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/2EA3267BAB9A31EB482564F3000DF2EB?OpenDocument)
+- [第28條 以廣播作品或將作品包括在有線傳播節目服務內的方式侵犯版權](http://www.legislation.gov.hk/blis_ind.nsf/CurAllChinDoc/B93F65692D1E6523482564F3000E0C6F?OpenDocument)
 
 [《2014 年版權(修訂)條例草案》委員會2014/12/08會議錄影](http://youtu.be/1AkuIUxxp1U)
  
