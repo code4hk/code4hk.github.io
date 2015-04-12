@@ -10,8 +10,6 @@ tags : [government, civic hacking, USA]
 
 ##民間如何挽救政府失誤？──美國政府的IT 改革
 
->CODE4HK博客除了公佈社群動態消息，也邀請社群成員投搞探討科技及公民社會的關係
-
 *（編按：本文譯自Medium.com 的文章 [Mikey Dickerson to SXSW: Why We Need You in Government](https://medium.com/@USDigitalService/mikey-dickerson-to-sxsw-why-we-need-you-in-government-f31dab3263a0)。感謝社群成員Elaine Chan、hong CY、Ivan Ip協作翻譯。）*
 
 ###Mikey Dickerson 於SXSW：為何我們需要你參與政府事務
@@ -95,3 +93,5 @@ U.S. Digital Service 的基本理念就是利用讓Healthcare.gov 的成功經�
 我在政府工作的這段時間中領悟最深的事，就是從情感上意識到這個國家屬於你和我，它的好壞也直接取決於我們的努力。不要期望成年人或億萬富翁會為大眾解決困難。如果不是我們我們親自去解決，就沒有人會去做 。
 
 現在歡迎提問。
+
+>CODE4HK博客除了公佈社群動態消息，也邀請社群成員投搞探討科技及公民社會的關係
