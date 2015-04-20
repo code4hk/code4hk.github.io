@@ -10,7 +10,7 @@ tags : [government, civic hacking, USA]
 
 ##民間如何挽救政府失誤？──美國政府的IT 改革
 
-*（編按：本文譯自Medium.com 的文章 [Mikey Dickerson to SXSW: Why We Need You in Government](https://medium.com/@USDigitalService/mikey-dickerson-to-sxsw-why-we-need-you-in-government-f31dab3263a0)。感謝社群成員Elaine Chan、hong CY、Ivan Ip協作翻譯。）*
+*（編按：2013年奧巴馬政府醫療改革因「技術問題」觸礁，從外部請來的IT 救兵不但及時挽救了新政，更促成其後一連串民間與政府合作的IT 改革。本文譯自[Medium](http://medium.com) 刊載IT 救兵之一Mikey Dickerson 的演講辭 [Mikey Dickerson to SXSW: Why We Need You in Government](https://medium.com/@USDigitalService/mikey-dickerson-to-sxsw-why-we-need-you-in-government-f31dab3263a0)。感謝社群成員Elaine Chan、hong CY、Ivan Ip協作翻譯。）*
 
 ###Mikey Dickerson 於SXSW：為何我們需要你參與政府事務
 
