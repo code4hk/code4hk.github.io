@@ -46,5 +46,5 @@ code4hk在本周末(11月22-23日)舉行程式設計馬拉松hackathon，歡迎�
 
 文／Ronald Yick
 
-經處理的(Structured)數據：https://github.com/gazetteerhk/census_explorer/tree/master/scripts
-Code4HK現正整理、有關立法會及區議會選區數據庫：http://datahub.io/organization/code4hk
+- 經處理的(Structured)數據：https://github.com/gazetteerhk/census_explorer/tree/master/scripts
+- Code4HK現正整理、有關立法會及區議會選區數據庫：http://datahub.io/organization/code4hk

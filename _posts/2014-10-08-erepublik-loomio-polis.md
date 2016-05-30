@@ -25,15 +25,17 @@ tags : [code4hk, blog]
 
 關於新科技如何實踐民主，有三個有趣的程式。
 
-## eRepublik - 國民遊戲
+![eRepublik](https://cloud.githubusercontent.com/assets/1883877/4558962/2f53da00-4ee6-11e4-8058-c6d4ea55c8aa.png)
+
+### eRepublik - 國民遊戲
 很多人玩過Erepublik這網上遊戲。玩家扮演市民，人人可以每天登入以民主方式討論及公投國家各種政策。每人角色不一，有商人、軍人、傳媒和政治家，利益也不同。是否攻打其他國家，還是發展經濟，要用盡方法說服別人。國運如何，就全靠每人的決定。遊戲可能有點粗糙，意念卻很新鮮，是Open Government 的先驅。筆者沒有沈迷，卻深受啟發，可算是[Code4HK 的願景。](http://www.pentoy.hk/%E7%A4%BE%E6%9C%83/c352/2014/06/17/code-hong-kong%EF%BC%9A%E7%94%A8%E7%A8%8B%E5%BC%8F%E6%94%B9%E8%AE%8A%E9%A6%99%E6%B8%AF/)
 
-## Loomio - 網上集體決策
-另一網站[Loomio](https://www.loomio.org/)，專門設計作開放決策工具。正是當年的[紐世蘭佔領運動](https://en.wikipedia.org/wiki/Occupy_protests_in_New_Zealand)啓發作者製作，可算和今天香港情況最相應。群組中成員可以提交建議(Proposal)，限時內大家討論投票。和作者相談，他指故意不要簡單的「少數服從多數」投票設計，而是希望大家討論，尊重每份意見，互相包容同時做出決策。Loomio被翻譯成26語言，在佔領華爾街和西班牙的示威中已大派用場。網站簡單易用，今天大家不妨在物資站的自發社群討論「Facebook Page叫佔鐘支援站還是兩傘運動舖」做個實驗。
+### Loomio - 網上集體決策
+另一網站[Loomio](https://www.loomio.org/)，專門設計作開放決策工具。正是當年的[紐西蘭佔領運動](https://en.wikipedia.org/wiki/Occupy_protests_in_New_Zealand)啓發作者製作，可算和今天香港情況最相應。群組中成員可以提交建議(Proposal)，限時內大家討論投票。和作者相談，他指故意不要簡單的「少數服從多數」投票設計，而是希望大家討論，尊重每份意見，互相包容同時做出決策。Loomio被翻譯成26語言，在佔領華爾街和西班牙的示威中已大派用場。網站簡單易用，今天大家不妨在物資站的自發社群討論「Facebook Page叫佔鐘支援站還是兩傘運動舖」做個實驗。
 
-## Polis - 圖像化意見
-[Pol.is](http://pol.is)則更特別，可系統地整理和圖像化意見。就每個議題，參與者可以提出意見(Comment)，更可以對每個其他人的論點投票讚成反對。再利用統計學(包括主成分分析，PCA)，便可知道意見的分類光譜。這有利促成對話。更重要的是可找出分歧。例如，你可能見有七成人都支持普選，當中三成卻反對佔領，怕影響生計；另外四成卻指是政府責任。也許考慮種種意見後，你也會改變想法。這也許便是民主理性。團隊更特意為今次的兩傘運動仗義制作出新聞系統[pol.is/hk](http://blog.code4.hk/tutorial/2014/10/07/pol-is-hk-tutorial/)，可以一起討論熱門新聞
+### Polis - 圖像化意見
+[Pol.is](http://pol.is)則更特別，可系統地整理和圖像化意見。就每個議題，參與者可以提出意見(Comment)，更可以對每個其他人的論點投票讚成反對。再利用統計學(包括主成分分析，PCA)，便可知道意見的分類光譜。這有利促成對話，更重要的是可找出分歧。例如，你可能見有七成人都支持普選，當中三成卻反對佔領，怕影響生計；另外四成卻指是政府責任。可能考慮種種意見後，你也會改變想法──這也許便是民主理性。團隊更特意為今次的兩傘運動仗義制作出新聞系統[pol.is/hk](http://blog.code4.hk/tutorial/2014/10/07/pol-is-hk-tutorial/)，可以一起討論熱門新聞。
 
 
 在旺角街頭，應付無賴有聰明招數，圍唱生日歌；而也有怪錯好人，[結果變成民粹](https://www.youtube.com/watch?v=RubSzEsyFi0&feature=youtu.be)。
-既然是追求民主，自已也必需從中學習民主。「沒有大會」，是「群眾」還是「市民」，自我組織下如何解決分歧，將是關鍵。 若運動組織者是[「手機的Google和Facebook」](http://hk.apple.nextmedia.com/realtime/supplement/20141002/52971271?top=4h)，也不妨試用科技解決新問題。
+既然是追求民主，自己也必需從中學習民主。「沒有大會」，是「群眾」還是「市民」，自我組織下如何解決分歧，將是關鍵。 若運動組織者是[「手機的Google和Facebook」](http://hk.apple.nextmedia.com/realtime/supplement/20141002/52971271?top=4h)，也不妨試用科技解決新問題。
