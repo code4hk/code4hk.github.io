@@ -10,4 +10,4 @@ HOWTO:
    * `bundle exec jekyll serve --safe`
 
 
-hosted at blog.code4.hk
+hosted at [blog.code4.hk](blog.code4.hk)
